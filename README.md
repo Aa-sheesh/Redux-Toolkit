@@ -6,3 +6,5 @@ Learning RTK.
 `reducers` - all the actions are done via reducers.<br/>
 `useSelector`- directly talks to the store.<br/>
 `useDispatch` - updates specific reducers. <br/>
+# Installation
+Refer to ReduxToolkit installation guide  <a href="https://redux-toolkit.js.org/introduction/getting-started">here</a>
